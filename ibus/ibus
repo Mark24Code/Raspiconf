@@ -1,0 +1,4 @@
+IBus 已经启动！如果您无法使用 IBus，添加以下行至 $HOME/.bashrc；然后请重新登录您的桌面。
+  export GTK_IM_MODULE=ibus
+  export XMODIFIERS=@im=ibus
+  export QT_IM_MODULE=ibus
